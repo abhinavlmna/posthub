@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "posthubzoople" "\0"
+            VALUE "FileDescription", "posthub" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "posthubzoople" "\0"
+            VALUE "InternalName", "posthub" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "posthubzoople.exe" "\0"
-            VALUE "ProductName", "posthubzoople" "\0"
+            VALUE "OriginalFilename", "posthub.exe" "\0"
+            VALUE "ProductName", "posthub" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
