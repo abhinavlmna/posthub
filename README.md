@@ -1,4 +1,4 @@
-# posthubzoople
+# posthub
 
 A new Flutter project.
 

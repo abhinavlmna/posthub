@@ -1,6 +1,6 @@
 {
-    "name": "posthubzoople",
-    "short_name": "posthubzoople",
+    "name": "posthub",
+    "short_name": "posthub",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
